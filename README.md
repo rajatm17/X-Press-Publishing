@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this capstone project, you will build all of the routing and database logic for an internal tool for a comic book publishing company called X-Press Publishing.
+In this capstone project, I build all of the routing and database logic for an internal tool for a comic book publishing company called X-Press Publishing.
 
 The X-Press Publishing internal tool should allow users to:
 - Create, view, and update artists
@@ -24,11 +24,11 @@ To view your local version of the site, open **index.html** in Google Chrome.
 
 ## Implementation Details
 
-To complete this project, you will need to create the database tables and API routes specified below. In addition to these specs, we have provided high-level steps for additional guidance in tying together all of your new skills in this project, linked at the end of this article. Feel free to not use these steps if you'd like an extra challenge. As you work through the project, be sure to use `npm` to install the necessary packages such as `express`.
+To complete this project, I need to create the database tables and API routes specified below. In addition to these specs, we have provided high-level steps for additional guidance in tying together all of your new skills in this project, linked at the end of this article. Feel free to not use these steps if you'd like an extra challenge. As you work through the project, be sure to use `npm` to install the necessary packages such as `express`.
 
 To test this functionality you can run the testing suite and interact with the API via the provided front-end. If you want more data to interact with in the front-end, you can run the **seed.js** file to add data to your database.
 
-We've provided an empty **migration.js** file for you to write table creation logic in.
+I provided an empty **migration.js** file for you to write table creation logic in.
 
 In order for the tests and provided front-end to run properly, you will need to make sure to:
 - Create and export your Express app from a root-level file called **server.js**
