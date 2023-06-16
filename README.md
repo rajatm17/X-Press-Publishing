@@ -18,7 +18,7 @@ You can view all of this functionality in action in the video below:
 
 ## Implementation Details
 
-To complete this project, I need to create the database tables and API routes specified below. In addition to these specs, we have provided high-level steps for additional guidance in tying together all of your new skills in this project, linked at the end of this article. Feel free to not use these steps if you'd like an extra challenge. As you work through the project, be sure to use `npm` to install the necessary packages such as `express`.
+To complete this project, I need to create the database tables and API routes specified below.Be sure to use `npm` to install the necessary packages such as `express`.
 
 To test this functionality you can run the testing suite and interact with the API via the provided front-end. If you want more data to interact with in the front-end, you can run the **seed.js** file to add data to your database.
 
